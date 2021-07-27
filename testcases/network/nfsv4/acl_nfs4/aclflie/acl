@@ -1,0 +1,16 @@
+A::OWNER@:rwatTcCy
+A::2001:rwaxtcy
+A::2002:rwatcy
+A::2003:rtcy
+A::2004:rxtcy
+A::GROUP@:rtcy
+A::EVERYONE@:rtcy
+A:g:2001:rwaxtcy
+A:g:2002:rwatcy
+A:g:2003:rtcy
+A:g:2004:rxtcy
+
+
+
+
+"u::rwx,u:user1:rwx,u:user2:rw-,u:user3:r--,u:user4:r-x,u:user5:---,g::r-x,o::r-x,m::rwx";
